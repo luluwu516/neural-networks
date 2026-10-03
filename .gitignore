@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code files for those working on multiple tools
+.vscode/*
+
+# macOS
+.DS_Store
+**/.DS_Store
